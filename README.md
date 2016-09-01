@@ -1,11 +1,11 @@
 # Lab 02 -- Chapter 01
 
 ## Define the followint terms:
-* object,
-* class,
-* instance,
-* method,
-* signature,
+* object, refers to a particular instance of a class where the object can be a combination of variables, functions, and data structures
+* class, A class can be defined as a template/blue print that describes the behaviors/states that object of its type support
+* instance, a specific realization of any object
+* method, a procedure associated with an object
+* signature, 
 * parameter,
 * type,
 * state,
