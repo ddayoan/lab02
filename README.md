@@ -5,9 +5,9 @@
 * class, A class can be defined as a template/blue print that describes the behaviors/states that object of its type support
 * instance, a specific realization of any object
 * method, a procedure associated with an object
-* signature, 
-* parameter,
-* type,
+* signature, is the combination of the method name and the parameter list
+* parameter, provides information about method parameters, including its name and modifiers. It also provides an alternate means of obtaining attributes for the parameter
+* type, 
 * state,
 * source code,
 * return value,
