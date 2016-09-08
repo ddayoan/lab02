@@ -20,20 +20,27 @@
 
 ## What are the types of the following values?
 
-* 0, byte
-* "hello", string
-* 101, binary
-* -1, byte
+* 0, int, double, float?
+* "hello", String
+* 101, int, double, float?
+* -1, int, double, float?
 * true, boolean
-* "33", byte
-* 3.1415, floating literal points
+* "33", String
+* 3.1415, double, float?
 
-## What would you have to do to add a new field, for example one called name, to a circle object? new Circle()
-
+## What would you have to do to add a new field, for example one called name, to a circle object? 
+'''
+private String name;
+'''
 ## Write the header for a method named send that has one parameter of type String, and does not return a value.
-
+'''
+public void send (String var1)
+'''
 ## Write the header for a method named average that has two parameters, both of type int, and returns an int value.
-
+'''
+public int average (int v1, int v2)
+'''
 ## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class.
-
+The book is an object of class Books.
+Or the book is a class called BluJBook and the objects are different copies of the book.
 ## Can an object have several different classes? Discuss.
